@@ -1,1 +1,12 @@
 /* styles go here */
+.input-group {
+  margin-bottom: 20px;
+}
+
+.input-group__wrapper {
+  margin: 0 0 10px;
+}
+
+.input-group__wrapper:last-child {
+  margin-bottom: 0;
+}
